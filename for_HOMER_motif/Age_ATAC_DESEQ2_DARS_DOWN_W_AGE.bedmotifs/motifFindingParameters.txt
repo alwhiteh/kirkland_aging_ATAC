@@ -1,0 +1,1 @@
+cmd = Age_ATAC_DESEQ2_DARS_DOWN_W_AGE.bed dm6 Age_ATAC_DESEQ2_DARS_DOWN_W_AGE.bedmotifs/ -size 150 -p 8

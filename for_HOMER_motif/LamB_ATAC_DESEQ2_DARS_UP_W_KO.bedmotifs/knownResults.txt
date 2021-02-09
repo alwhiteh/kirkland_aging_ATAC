@@ -1,0 +1,18 @@
+Motif Name	Consensus	P-value	Log P-value	q-value (Benjamini)	# of Target Sequences with Motif(of 10)	% of Target Sequences with Motif	# of Background Sequences with Motif(of 46116)	% of Background Sequences with Motif
+Trl(Zf)/S2-GAGAfactor-ChIP-Seq(GSE40646)/Homer	RGAGAGAG	1e-1	-4.001e+00	0.3111	4.0	40.00%	5114.3	11.09%
+Unknown3/Drosophila-Promoters/Homer	ACVAKCTGGCAGCGC	1e0	-2.259e+00	0.8880	1.0	10.00%	506.0	1.10%
+Zelda(Zf)/Embryo-zld-ChIP-Seq(GSE65441)/Homer	KBCTACCTGW	1e0	-1.904e+00	0.8880	1.0	10.00%	738.9	1.60%
+Unknown5/Drosophila-Promoters/Homer	GCTGATAASV	1e0	-8.105e-01	1.0000	1.0	10.00%	2635.0	5.71%
+Unknown6/Drosophila-Promoters/Homer	AATTTTAAAA	1e0	-5.372e-01	1.0000	1.0	10.00%	3876.5	8.41%
+caudal(Homeobox)/Drosophila-Embryos-ChIP-Chip(modEncode)/Homer	GGYCATAAAW	1e0	-3.862e-01	1.0000	1.0	10.00%	4961.3	10.76%
+Initiator/Drosophila-Promoters/Homer	NTCAGTYG	1e0	-1.634e-01	1.0000	1.0	10.00%	7949.5	17.24%
+DREF/Drosophila-Promoters/Homer	AVYTATCGATAD	1e0	0.000e+00	1.0000	0.0	0.00%	384.2	0.83%
+E-box/Drosophila-Promoters/Homer	AACAGCTGTTHN	1e0	0.000e+00	1.0000	0.0	0.00%	1119.7	2.43%
+bcd(Homeobox)/Embryo-Bcd-ChIP-Seq(GSE86966)/Homer	VNNGGATTADNN	1e0	0.000e+00	1.0000	0.0	0.00%	3738.2	8.11%
+M1BP(Zf)/S2R+-M1BP-ChIP-Seq(GSE49842)/Homer	CAGTGTGACCGT	1e0	0.000e+00	1.0000	0.0	0.00%	793.8	1.72%
+TATA-box/Drosophila-Promoters/Homer	CTATAAAAGCSV	1e0	0.000e+00	1.0000	0.0	0.00%	311.0	0.67%
+Unknown2/Drosophila-Promoters/Homer	CATCMCTA	1e0	0.000e+00	1.0000	0.0	0.00%	2319.4	5.03%
+Unknown4/Drosophila-Promoters/Homer	AAAAATACCRMA	1e0	0.000e+00	1.0000	0.0	0.00%	531.2	1.15%
+Unknown1(NR/Ini-like)/Drosophila-Promoters/Homer	MYGGTCACACTG	1e0	0.000e+00	1.0000	0.0	0.00%	799.6	1.73%
+dHNF4(NR)/Fly-HNF4-ChIP-Seq(GSE73675)/Homer	GGTCCAAAGTCCAMT	1e0	0.000e+00	1.0000	0.0	0.00%	145.9	0.32%
+Dorsal(RHD)/Embryo-dl-ChIP-Seq(GSE65441)/Homer	GGGAAAAMCCCG	1e0	0.000e+00	1.0000	0.0	0.00%	599.2	1.30%
