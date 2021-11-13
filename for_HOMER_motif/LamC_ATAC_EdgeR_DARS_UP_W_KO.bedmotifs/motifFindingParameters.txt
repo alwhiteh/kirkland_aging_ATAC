@@ -1,1 +1,0 @@
-cmd = LamC_ATAC_EdgeR_DARS_UP_W_KO.bed dm6 LamC_ATAC_EdgeR_DARS_UP_W_KO.bedmotifs/ -size 150 -p 8
